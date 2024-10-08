@@ -1,0 +1,16 @@
+{
+  "name": "adum-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "applu": "node main.js"
+  },
+  "author": "r4ph3rd",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "puppeteer": "^23.5.1"
+  }
+}
